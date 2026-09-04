@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <style name="Theme.ToDoApp" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <!-- Transparent Launch Theme to Remove Default Splash Screen  -->
+    <style name="Theme.Transparent" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
 </resources>

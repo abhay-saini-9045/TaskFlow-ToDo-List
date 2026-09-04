@@ -61,5 +61,5 @@ dependencies {
     //For Coroutines
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.9")
     //For Extra Icons
-    implementation("androidx.compose.material:material-icons-extende")
+    implementation("androidx.compose.material:material-icons-extended")
 }
